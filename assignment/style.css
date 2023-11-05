@@ -27,7 +27,12 @@ h2 {
 /* Add a background color to the footer element */
 /* Make your p tag a different color and italic */
 footer {
-    background-color: pink;
-    color: darkblue;
+    background-color: rgb(139, 0, 0);
+    color: white;
     font-style: italic;
+}
+
+.author {
+    font-style: normal;
+    text-align: right;
 }
